@@ -33,5 +33,6 @@ public class luasBalok {
         luasBalok luasbalok = new luasBalok(10,7,8);
 
         System.out.println("Luas Balok = "+ luasbalok.calculateLuas());
+        System.out.println("halo cabang 1");
     }
 }
